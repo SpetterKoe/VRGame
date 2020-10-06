@@ -33,6 +33,7 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
+*.temp
 *.user
 *.userprefs
 *.pidb
@@ -58,3 +59,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+VRGame2/Temp/UnityLockfile
